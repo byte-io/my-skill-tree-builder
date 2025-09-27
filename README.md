@@ -16,8 +16,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Instruction to play with App
 
 1. Skill Node Creation:
-  ● Users can add new skill nodes via a form (e.g., name, description and level ). All form fields are mandotory
-  ● Each node is displayed on a canvas layout.
+  -- Users can add new skill nodes via a form (e.g., name, description and level ). All form fields are mandotory
+  -- Each node is displayed on a canvas layout.
   
 2. Connections (Prerequisites):
   ● Users can connect nodes to define prerequisites (e.g., drag an edge from Skill A
